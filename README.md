@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hi, I'm Jolie 🐰</h1>
-<h3 align="left">HCI Researcher passionate about augmenting everyday life through robotization</h3>
+<h4 align="left">I'm a HCI Researcher passionate about : </h4>
+<ul>robotization</ul>
+<ul>physical interations</ul>
+<ul>computational augmentation</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
