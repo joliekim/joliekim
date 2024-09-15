@@ -1,5 +1,3 @@
-## 🐰🍀
-
 <!--
 **joliekim/joliekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi 👋, I'm Jolie</h1>
-<h3 align="left">A HCI Researcher passionate about augmenting everyday life through robotization</h3>
+<h2 align="left">Hi, I'm Jolie 🐰</h1>
+<h3 align="left">HCI Researcher passionate about augmenting everyday life through robotization</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
